@@ -1,3 +1,3 @@
 # Parallel-Transcend
 
-# Python experiemnts.
+ITC basic coding exercises.
